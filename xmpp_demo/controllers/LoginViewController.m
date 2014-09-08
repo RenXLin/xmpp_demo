@@ -31,6 +31,8 @@
     UIBarButtonItem *rigthBBI = [[UIBarButtonItem alloc] initWithTitle:@"Login" style:UIBarButtonItemStyleBordered target:self action:@selector(Login)];
     self.navigationItem.rightBarButtonItem = rigthBBI;
 
+    
+    
 }
 
 

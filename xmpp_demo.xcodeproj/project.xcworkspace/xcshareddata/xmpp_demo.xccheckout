@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B4E5EC47-5390-4165-AD8C-39136169B95B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>xmpp_demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C290B652-DC76-4D41-A5B8-A02D2BF5C55D</key>
+		<string>https://github.com/RenXLin/xmpp_demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>xmpp_demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C290B652-DC76-4D41-A5B8-A02D2BF5C55D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RenXLin/xmpp_demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C290B652-DC76-4D41-A5B8-A02D2BF5C55D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C290B652-DC76-4D41-A5B8-A02D2BF5C55D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xmpp_demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

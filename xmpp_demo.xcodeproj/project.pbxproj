@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD0F0B1819BC0C0A00F5CC89 /* ChartHelp.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0F0B1719BC0C0A00F5CC89 /* ChartHelp.m */; };
+		CD0F0B1B19BC97F600F5CC89 /* ChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD0F0B1A19BC97F600F5CC89 /* ChartViewController.m */; };
 		CD95198B19B76663003EE763 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD95198A19B76663003EE763 /* Foundation.framework */; };
 		CD95198D19B76663003EE763 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD95198C19B76663003EE763 /* CoreGraphics.framework */; };
 		CD95198F19B76663003EE763 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD95198E19B76663003EE763 /* UIKit.framework */; };
@@ -81,6 +83,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CD0F0B1619BC0C0A00F5CC89 /* ChartHelp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChartHelp.h; sourceTree = "<group>"; };
+		CD0F0B1719BC0C0A00F5CC89 /* ChartHelp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChartHelp.m; sourceTree = "<group>"; };
+		CD0F0B1919BC97F600F5CC89 /* ChartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartViewController.h; path = controllers/ChartViewController.h; sourceTree = "<group>"; };
+		CD0F0B1A19BC97F600F5CC89 /* ChartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartViewController.m; path = controllers/ChartViewController.m; sourceTree = "<group>"; };
 		CD29CD6419B8BBD900C54DC3 /* include.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = include.h; sourceTree = "<group>"; };
 		CD95198719B76663003EE763 /* xmpp_demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xmpp_demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD95198A19B76663003EE763 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -270,8 +276,12 @@
 				CD29CD6419B8BBD900C54DC3 /* include.h */,
 				CD95199919B76663003EE763 /* AppDelegate.h */,
 				CD95199A19B76663003EE763 /* AppDelegate.m */,
+				CD0F0B1619BC0C0A00F5CC89 /* ChartHelp.h */,
+				CD0F0B1719BC0C0A00F5CC89 /* ChartHelp.m */,
 				CD951A5C19B767BD003EE763 /* MainViewController.h */,
 				CD951A5D19B767BD003EE763 /* MainViewController.m */,
+				CD0F0B1919BC97F600F5CC89 /* ChartViewController.h */,
+				CD0F0B1A19BC97F600F5CC89 /* ChartViewController.m */,
 				CD951A6119B76F96003EE763 /* LoginViewController.h */,
 				CD951A6219B76F96003EE763 /* LoginViewController.m */,
 				CD951A6319B76F96003EE763 /* LoginViewController.xib */,
@@ -679,6 +689,7 @@
 				CD951A4219B76676003EE763 /* XMPPStringPrep.m in Sources */,
 				CD951A3919B76676003EE763 /* XMPPModule.m in Sources */,
 				CD951A3719B76676003EE763 /* XMPPJID.m in Sources */,
+				CD0F0B1819BC0C0A00F5CC89 /* ChartHelp.m in Sources */,
 				CD951A3319B76676003EE763 /* NSNumber+XMPP.m in Sources */,
 				CD951A4119B76676003EE763 /* XMPPSRVResolver.m in Sources */,
 				CD951A3E19B76676003EE763 /* GCDMulticastDelegate.m in Sources */,
@@ -698,6 +709,7 @@
 				CD951A2C19B76676003EE763 /* XMPPDeprecatedPlainAuthentication.m in Sources */,
 				CD951A4719B76676003EE763 /* DDFileLogger.m in Sources */,
 				CD951A2E19B76676003EE763 /* XMPPPlainAuthentication.m in Sources */,
+				CD0F0B1B19BC97F600F5CC89 /* ChartViewController.m in Sources */,
 				CD951A4319B76676003EE763 /* XMPPTimer.m in Sources */,
 				CD951A4419B76676003EE763 /* GCDAsyncSocket.m in Sources */,
 				CD951A5E19B767BD003EE763 /* MainViewController.m in Sources */,
